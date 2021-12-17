@@ -1,0 +1,8 @@
+.photo-grid {
+  min-height: 100vh;
+  margin: 92px 48px 0;
+  display: grid;
+  grid-template-rows: repeat(3, 1fr);
+  grid-template-columns: repeat(4, 1fr);
+  gap: 16px;
+}
