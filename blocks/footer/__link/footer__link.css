@@ -6,8 +6,14 @@
   line-height: 18px;
   font-style: normal;
   font-weight: 400;
+  opacity: 1;
+  transition: opacity 2s;
 }
 
-footer__link:last-of-type {
+.footer__link:last-of-type {
   margin-right: 0;
+}
+
+.footer__link:hover {
+  opacity: 0.8;
 }
