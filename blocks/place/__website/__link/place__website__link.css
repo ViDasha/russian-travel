@@ -4,4 +4,10 @@
   line-height: 22px;
   font-style: normal;
   font-weight: 400;
+  opacity: 1;
+  transition: opasity 2s;
+}
+
+.place__website__link:hover {
+  opacity: 0.8;
 }

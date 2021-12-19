@@ -1,4 +1,4 @@
 .places {
-  display: grid;
-  margin: 92px 148px 92px;
+  margin-top: 92px;
+  padding: 0 148px 0;
 }
