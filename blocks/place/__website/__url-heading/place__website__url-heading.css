@@ -7,3 +7,9 @@
   line-height: 170%;
   letter-spacing: 2px;
 }
+
+@media screen and (max-width: 1020px) {
+  .place__website__url-heading {
+    line-height: 1;
+  }
+}

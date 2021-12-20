@@ -8,13 +8,13 @@
   align-items: flex-start;
 }
 
-@media screen and (max-width: 1280px) {
+@media screen and (max-width: 1270px) {
   .intro {
     margin-left: calc(148px - 100px);
   }
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1020px) {
   .intro {
     max-width: 720px;
     margin-left: calc(48px/2);
@@ -23,7 +23,7 @@
   }
 }
 
-@media screen and (max-width: 524px) {
+@media screen and (max-width: 520px) {
   .intro {
     max-width: 288px;
     margin-left: 16px;
