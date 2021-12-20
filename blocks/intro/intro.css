@@ -19,6 +19,7 @@
     max-width: 720px;
     margin-left: calc(48px/2);
     margin-right: calc(48px/2);
+    margin-top: 88px;
   }
 }
 
@@ -27,5 +28,6 @@
     max-width: 288px;
     margin-left: 16px;
     margin-right: 16px;
+    margin-top: 64px;
   }
 }
