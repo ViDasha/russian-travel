@@ -24,4 +24,4 @@
 
 **Ссылка на проект**
 
-* [Ссылка в GitPage]()
+* [Ссылка в GitPage](https://vidasha.github.io/russian-travel/)
