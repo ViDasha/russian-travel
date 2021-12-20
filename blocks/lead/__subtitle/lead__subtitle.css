@@ -8,3 +8,19 @@
   line-height: 1.2;
   text-align: center;
 }
+
+@media screen and (max-width: 768px) {
+  .lead__subtitle {
+    max-width: 480px;
+    font-size: 26px;
+    line-height: 1.25;
+  }
+}
+
+@media screen and (max-width: 524px) {
+  .lead__subtitle {
+    max-width: 288px;
+    font-size: 16px;
+    line-height: 1.25;
+  }
+}

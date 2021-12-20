@@ -5,3 +5,15 @@
   justify-content: space-between;
   align-items: center;
 }
+
+@media screen and (max-width: 768px) {
+  .header {
+    margin: 0 calc(48px/2) 0;
+  }
+}
+
+@media screen and (max-width: 524px) {
+  .header {
+    margin: 0 calc(48px/3) 0;
+  }
+}

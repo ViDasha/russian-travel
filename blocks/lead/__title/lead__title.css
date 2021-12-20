@@ -8,3 +8,19 @@
   color: white;
   text-align: center;
 }
+
+@media screen and (max-width: 768px) {
+  .lead__title {
+    max-width: 480px;
+    font-size: 64px;
+    line-height: 1.1;
+  }
+}
+
+@media screen and (max-width: 524px) {
+  .lead__title {
+    max-width: 288px;
+    font-size: 40px;
+    line-height: 1.1;
+  }
+}

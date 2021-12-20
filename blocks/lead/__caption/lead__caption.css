@@ -8,3 +8,15 @@
   font-style:  normal;
   font-weight: 400;
 }
+
+@media screen and (max-width: 1024px) {
+  .lead__caption {
+    margin: 8px 0 0 24px;
+  }
+}
+
+@media screen and (max-width: 524px) {
+  .lead__caption {
+    margin: 8px 0 0 16px;
+  }
+}
