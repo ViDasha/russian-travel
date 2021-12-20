@@ -5,3 +5,18 @@
   margin: 92px 48px 0;
   padding-bottom: 24px;
 }
+
+@media screen and (max-width: 1020px) {
+  .footer {
+    margin: 88px calc(48px/2) 0;
+  }
+}
+
+@media screen and (max-width: 760px) {
+  .footer {
+    margin: 64px 0 0 16px;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+  }
+}
